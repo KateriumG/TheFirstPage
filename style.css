@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(218, 238, 255);
+}
+
+#Menu {
+    background-color: black;
+}
+
+#HeadPage {
+    background-color: cornflowerblue;
+}
+
+#UnderConstruction {
+    text-align: center;
+}
+
+.buttoncen {
+    width: 100%;
+    height: 100%;
+    background-color:skyblue;
+}
+
+.WideTables {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bluetd {
+    background-color: cornflowerblue;
+}
+
+.videocells {
+    width: 100px;
+}
